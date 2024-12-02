@@ -1,5 +1,6 @@
 # Hi, I'm Lobana Alarabi 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox)](https://lobana-sky.github.io/lobanaalarabi)
 
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
 
@@ -93,18 +94,10 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 - **English**: Fluent (C2)  
 - **Turkish**: Intermediate (A2)  
 - **German**: Beginner (A1)  
-
----
-
-## 📈 GitHub Stats  
-![Lobana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LobanaAlarabi&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Contact
 - **Email**: [loubanaeng@gmail.com](mailto:loubanaeng@gmail.com)  
-- **LinkedIn**: [Lobana Alarabi](https://www.linkedin.com/in/lobana-alarabi-38470b199)  
-- **Portfolio**: [Portfolio](https://lobana-sky.github.io/lobanaalarabi/)  
 
 ---
 
