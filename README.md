@@ -21,6 +21,10 @@ Welcome to my GitHub profile! I'm a developer with experience in **React**, **La
 
 
 ## 📌 Featured Projects
+
+### **[Hotel Reservation System](https://github.com/Lobana-sky/Hotel-Reservation-System)**  
+A web-based hotel reservation system designed to streamline the booking process. Built with **Ruby on Rails**.
+
 ### **[Neural Network Classifier](https://github.com/Lobana-sky/ProtienGraduationproject)**  
 Trained **13 neural networks** to classify proteins into families based on nucleotide sequences, making research more efficient for biologists and scientists.
 
