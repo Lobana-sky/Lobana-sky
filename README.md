@@ -1,4 +1,6 @@
 # Hi, I'm Lobana Alarabi 👋  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
+
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
 
 Welcome to my GitHub profile! I'm a developer with experience in **React**, **Laravel**, **Ruby on Rails**, and **TypeScript**, dedicated to creating efficient, user-friendly applications. Below is a summary of my background, skills, and achievements.
@@ -19,13 +21,7 @@ Welcome to my GitHub profile! I'm a developer with experience in **React**, **La
 
 
 ## 📌 Featured Projects
-### **[Ebank Platform](https://github.com/your-repo-link)**  
-A full-stack e-commerce platform with an integrated **e-wallet**, built with **React** for the frontend and **Laravel** for backend operations. The platform offers seamless **real-time order management** and **user authentication**.
-
-### **[Tickit Platform](https://github.com/your-repo-link)**  
-A ticketing platform developed with **React TypeScript** and **Laravel RESTful API**, streamlining asset purchases and ticket submissions with a focus on scalability.
-
-### **[Neural Network Classifier](https://github.com/your-repo-link)**  
+### **[Neural Network Classifier](https://github.com/Lobana-sky/ProtienGraduationproject)**  
 Trained **13 neural networks** to classify proteins into families based on nucleotide sequences, making research more efficient for biologists and scientists.
 
 ---
@@ -45,7 +41,19 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 ### **Redemptive**  
 📍 *New York, USA (Remote)* | **Jul 2021 – Nov 2022**  
 - Designed intranet applications with **Ruby on Rails** and PostgreSQL.  
-- Focused on **responsive web design** and **REST API development**.  
+- Focused on **responsive web design** and **REST API development**.
+
+### **Girls Doing Tech**  
+**Co-Founder · Full-stack Developer**  
+📍 *Istanbul, Türkiye* | **Sep 2021 – Present (3 yrs 4 mos)**  
+- Built and launched over **five client websites** using **React.js** and **WordPress**, effectively increasing engagement and site performance.  
+- Created **three mobile apps** with **Flutter**, delivering a strong user experience and improved customer satisfaction.  
+- Actively participated in all phases of product development, from initial concept and planning through to development and launch.
+
+### **DCONFIG**  
+**Full-stack Developer · Full-time**  
+📍 *Istanbul, Turkey* | **Feb 2021 – Jan 2022 (1 yr)**  
+- Contributed to both **frontend** and **backend** development of a company project, utilizing **Next.js** for full-stack solutions.
 
 ### **Aleppo University**  
 📍 *Aleppo, Syria* | **Jun 2014 – Dec 2015**  
@@ -92,7 +100,7 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 ## 📫 Contact
 - **Email**: [loubanaeng@gmail.com](mailto:loubanaeng@gmail.com)  
 - **LinkedIn**: [Lobana Alarabi](https://www.linkedin.com/in/lobana-alarabi-38470b199)  
-- **Portfolio**: [Your Portfolio Link](https://lobana-sky.github.io/lobanaalarabi/)  
+- **Portfolio**: [Portfolio](https://lobana-sky.github.io/lobanaalarabi/)  
 
 ---
 
