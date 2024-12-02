@@ -1,7 +1,7 @@
 # Hi, I'm Lobana Alarabi 👋  
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
 
-Welcome to my GitHub profile! I'm a developer with expertise in **React**, **Laravel**, **Ruby on Rails**, and **TypeScript**, dedicated to creating efficient, user-friendly applications. Below are some of my experiences and skills that showcase my work and passion for software engineering.
+Welcome to my GitHub profile! I'm a developer with experience in **React**, **Laravel**, **Ruby on Rails**, and **TypeScript**, dedicated to creating efficient, user-friendly applications. Below is a summary of my background, skills, and achievements.
 
 ---
 
@@ -17,12 +17,6 @@ Welcome to my GitHub profile! I'm a developer with expertise in **React**, **Lar
 
 ---
 
-## 🌱 Currently Learning
-- **Notification libraries** in React
-- **Performance optimization** for database calls and API response times
-- Advanced **AWS services** and **CI/CD pipelines**
-
----
 
 ## 📌 Featured Projects
 ### **[Ebank Platform](https://github.com/your-repo-link)**  
@@ -40,7 +34,7 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 ### **Freelance Developer**  
 📍 *Istanbul, Turkey* | **Aug 2024 – Present**  
 - Developed a full-stack **e-commerce platform** with React and Laravel.  
-- Focused on delivering a responsive user experience with **real-time updates**.  
+- Delivered a responsive user experience with **real-time updates**.  
 - Integrated **Laravel Passport** for secure user authentication.
 
 ### **VERTIX Solutions**  
@@ -53,6 +47,41 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 - Designed intranet applications with **Ruby on Rails** and PostgreSQL.  
 - Focused on **responsive web design** and **REST API development**.  
 
+### **Aleppo University**  
+📍 *Aleppo, Syria* | **Jun 2014 – Dec 2015**  
+- Taught advanced topics in **Algorithms & Programming** using C++, Pascal, and Visual Basic.  
+- Developed practice materials and examinations to support student learning.
+
+---
+
+## 🎓 Education
+### **Aleppo University**  
+- **B.A. in Computer Science (Informatics Engineering)**  
+  📍 *Aleppo, Syria* | **2008 – 2013**  
+  - **Graduation Rank**: 11th  
+  - **Overall Average**: 80.77% (Very Good)  
+  - **Graduation Project**: Genetic patterns recognition using AI techniques – Scored 99/100, ranked 1st  
+
+### **Re:Coded Bootcamp**  
+- **Full-Stack Development Program**  
+  📍 *Istanbul, Turkey* | **Sep 2019 – Mar 2020**  
+  - Completed 400+ hours of hands-on training in web development, including **React**, **JavaScript**, and **responsive design**.
+
+---
+
+## 🏆 Awards
+- **Innovation Hackathon (2021)**: 2nd Place – Developed a web application, awarded 10,000 TL  
+- **Showcode Hackathon (2021)**: Built a To-Do List Project on NEAR protocol, awarded 100 NEAR tokens  
+- **Graduation Project (2013)**: Ranked 1st for a groundbreaking AI-based genetic pattern recognition tool  
+
+---
+
+## 🌍 Languages
+- **Arabic**: Native  
+- **English**: Fluent (C2)  
+- **Turkish**: Intermediate (A2)  
+- **German**: Beginner (A1)  
+
 ---
 
 ## 📈 GitHub Stats  
@@ -63,7 +92,7 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 ## 📫 Contact
 - **Email**: [loubanaeng@gmail.com](mailto:loubanaeng@gmail.com)  
 - **LinkedIn**: [Lobana Alarabi](https://www.linkedin.com/in/lobana-alarabi-38470b199)  
-- **Portfolio**: [Your Portfolio Link](https://your-portfolio-link.com)
+- **Portfolio**: [Your Portfolio Link](https://lobana-sky.github.io/lobanaalarabi/)  
 
 ---
 
