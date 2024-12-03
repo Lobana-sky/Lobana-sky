@@ -31,42 +31,6 @@ Trained **13 neural networks** to classify proteins into families based on nucle
 
 ---
 
-## 💼 Work Experience
-### **Freelance Developer**  
-📍 *Istanbul, Turkey* | **Aug 2024 – Present**  
-- Developed a full-stack **e-commerce platform** with React and Laravel.  
-- Delivered a responsive user experience with **real-time updates**.  
-- Integrated **Laravel Passport** for secure user authentication.
-
-### **VERTIX Solutions**  
-📍 *New Zealand (Remote)* | **Nov 2022 – Jul 2023**  
-- Built the **Tickit Platform**, enhancing client engagement by 20%.  
-- Utilized **React TypeScript** and **Laravel RESTful APIs** to create a scalable system.  
-
-### **Redemptive**  
-📍 *New York, USA (Remote)* | **Jul 2021 – Nov 2022**  
-- Designed intranet applications with **Ruby on Rails** and PostgreSQL.  
-- Focused on **responsive web design** and **REST API development**.
-
-### **Girls Doing Tech**  
-**Co-Founder · Full-stack Developer**  
-📍 *Istanbul, Türkiye* | **Sep 2021 – Present (3 yrs 4 mos)**  
-- Built and launched over **five client websites** using **React.js** and **WordPress**, effectively increasing engagement and site performance.  
-- Created **three mobile apps** with **Flutter**, delivering a strong user experience and improved customer satisfaction.  
-- Actively participated in all phases of product development, from initial concept and planning through to development and launch.
-
-### **DCONFIG**  
-**Full-stack Developer · Full-time**  
-📍 *Istanbul, Turkey* | **Feb 2021 – Jan 2022 (1 yr)**  
-- Contributed to both **frontend** and **backend** development of a company project, utilizing **Next.js** for full-stack solutions.
-
-### **Aleppo University**  
-📍 *Aleppo, Syria* | **Jun 2014 – Dec 2015**  
-- Taught advanced topics in **Algorithms & Programming** using C++, Pascal, and Visual Basic.  
-- Developed practice materials and examinations to support student learning.
-
----
-
 ## 🎓 Education
 ### **Aleppo University**  
 - **B.A. in Computer Science (Informatics Engineering)**  
