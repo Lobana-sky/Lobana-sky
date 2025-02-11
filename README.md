@@ -7,8 +7,6 @@ I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related
 💻 Passionate about solving real-world problems with technology.
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/lobana-alarabi-38470b199/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://lobana-sky.github.io/lobanaalarabi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox)](https://lobana-sky.github.io/lobanaalarabi)
 ---
