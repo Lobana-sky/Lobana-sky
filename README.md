@@ -1,19 +1,14 @@
 
 
 ## Hi there! I am Lobana Alarabi 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox)](https://lobana-sky.github.io/lobanaalarabi)
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Lobana-sky&color=blue)
 
 I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related projects.  
 💻 Passionate about solving real-world problems with technology.
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([your-linkedin-profile](https://www.linkedin.com/in/lobana-alarabi-38470b199/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)]([your-portfolio-link](https://lobana-sky.github.io/lobanaalarabi))
 
 ---
 
