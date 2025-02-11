@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a developer with experience in **React**, **La
 - **React.js**, **TypeScript**, **Next.js**, **Flutter**, **HTML**, **CSS**
 
 ### Backend:
-- **Node.js**, **Laravel PHP**, **Ruby on Rails**, **REST API Design**
+- **Laravel PHP**, **Ruby on Rails**, **REST API Design**
 
 ### Databases & Tools:
 - **MySQL**, **PostgreSQL**, **Git**, **Gitlab**, **JIRA**, **Heroku**
