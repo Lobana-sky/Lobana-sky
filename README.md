@@ -2,6 +2,57 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox)](https://lobana-sky.github.io/lobanaalarabi)
 
+
+
+## Hi there! I am Lobana Alarabi 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lobana-sky&color=blue)
+
+I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related projects.  
+💻 Passionate about solving real-world problems with technology.
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](your-linkedin-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](your-portfolio-link)
+
+---
+
+## 🚀 Technologies & Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+
+---
+
+## 📊 My GitHub Stats:
+![Lobana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lobana-sky&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobana-sky&layout=compact&theme=dark)
+
+---
+
+## 🏆 Achievements:
+![Trophy](https://github-profile-trophy.vercel.app/?username=Lobana-sky&theme=onedark)
+
+---
+
+## ⏳ Coding Time (WakaTime Stats):
+> To enable this, create a [WakaTime](https://wakatime.com/) account and add your API key.
+
+```md
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lobana-sky)
+
+
+
+
+
+
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
 
 Welcome to my GitHub profile! I'm a developer with experience in **React**, **Laravel**, **Ruby on Rails**, and **TypeScript**, dedicated to creating efficient, user-friendly applications. Below is a summary of my background, skills, and achievements.
