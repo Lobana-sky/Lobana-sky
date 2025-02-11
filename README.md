@@ -1,10 +1,10 @@
-# Hi, I'm Lobana Alarabi 👋  
+
+
+## Hi there! I am Lobana Alarabi 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lobana-alarabi-38470b199/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox)](https://lobana-sky.github.io/lobanaalarabi)
 
 
-
-## Hi there! I am Lobana Alarabi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lobana-sky&color=blue)
 
@@ -41,16 +41,6 @@ I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Lobana-sky&theme=onedark)
 
 ---
-
-## ⏳ Coding Time (WakaTime Stats):
-> To enable this, create a [WakaTime](https://wakatime.com/) account and add your API key.
-
-```md
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lobana-sky)
-
-
-
-
 
 
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
