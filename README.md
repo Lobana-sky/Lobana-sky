@@ -31,11 +31,6 @@ I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related
 
 ---
 
-## 🏆 Achievements:
-![Trophy](https://github-profile-trophy.vercel.app/?username=Lobana-sky&theme=onedark)
-
----
-
 
 🌟 **Full Stack Software Engineer** | 🚀 **Passionate about building impactful applications**  
 
