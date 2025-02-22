@@ -20,7 +20,6 @@ I am a **Full Stack Developer** with expertise in Laravel, React, and AI-related
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
 ---
 
